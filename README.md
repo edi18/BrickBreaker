@@ -8,5 +8,3 @@ Contains two view-controllers, one with a graphical user interface running on Sw
 Code is well commented.
 
 Avaliable Javadoc documentation of program.
-
-Copyright 2023 Edim Omerhodzic
